@@ -16,7 +16,9 @@
 
 ![시연 gif](https://github.com/user-attachments/assets/48274cab-9432-4442-894a-5ce030941bb6)
 
-플레이 영상 : -
+플레이 영상 (시연) : https://youtu.be/lu4w-Ha0ELU
+
+플레이 영상 (휴대폰) : https://youtube.com/shorts/pNpXiJ9-gxM?feature=share
 
 # 스크린샷
 
