@@ -4,7 +4,7 @@
 기간 : 2024. 9-12. (3개월)  <br>
 인원 : 2명 <br>
 역할 : BE <br>
-개발 : Spring Framework, AWS
+개발 : Spring Framework, AWS ( Elastic Beanstalk, RDS )
 
 ( 현재 Repository에는 aws 자산 보호를 위해 소스코드만 등록되어 있습니다. )
 
