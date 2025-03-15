@@ -1,7 +1,7 @@
 # 정보
 이름 : Quiz Crown <br>
 장르 : `2d` `quiz` `casual` `co-op` <br>
-기간 : 2024. 9-12. (3개)  <br>
+기간 : 2024. 9-12. (3개월)  <br>
 인원 : 2명 <br>
 역할 : BE <br>
 개발 : Spring Framework, AWS
